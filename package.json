@@ -26,6 +26,8 @@
   },
   "homepage": "https://github.com/danielledees/Google-Books-Search#readme",
   "dependencies": {
+    "axios": "^0.18.0",
+    "concurrently": "^4.1.0",
     "express": "^4.16.4",
     "mongodb": "^3.2.3",
     "mongoose": "^5.5.0",
